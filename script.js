@@ -1,1 +1,2 @@
-document.body.innerHTML = "hola"
+document.body.innerHTML = "hola";
+console.log("hola");
